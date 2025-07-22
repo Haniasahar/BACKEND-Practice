@@ -1,0 +1,15 @@
+[
+  { "id": 1, "name": "Laptop", "price": 1000, "category": "Electronics" },
+  { "id": 2, "name": "Smartphone", "price": 700, "category": "Electronics" },
+  { "id": 3, "name": "Headphones", "price": 200, "category": "Accessories" },
+  { "id": 4, "name": "Smartwatch", "price": 250, "category": "Wearables" },
+  { "id": 5, "name": "Tablet", "price": 500, "category": "Electronics" },
+  { "name": "Haniya", "age": 17 },
+  [
+    { "name": "Haniya", "age": 17 },
+    { "umer": "pagal", "I": "nicest" }
+  ],
+  { "name": "hani", "job": "leaderyyyy ", "age": 17 },
+  { "name": "hani", "job": "leaderyyyy ", "age": 11 }
+]
+  
